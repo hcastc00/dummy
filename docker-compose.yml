@@ -1,0 +1,7 @@
+version: "3.5"
+services:
+  dummy:
+    build:
+      context: .
+    image: dummy.dummy.public.dappnode.eth:0.1.0
+    restart: unless-stopped

@@ -1,0 +1,21 @@
+{
+  "name": "dummy.public.dappnode.eth",
+  "version": "0.1.0",
+  "upstreamVersion": "v0.1.0",
+  "upstreamRepo": "hcastc00/dummy",
+  "upstreamArg": "UPSTREAM_VERSION",
+  "description": "dummy.public.dappnode.eth description",
+  "type": "service",
+  "author": "hector",
+  "categories": [
+    "Developer tools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcastc00/dummy.git."
+  },
+  "links": {
+    "homepage": "https://your-project-homepage-or-docs.io"
+  },
+  "license": "GPL-3.0"
+}
